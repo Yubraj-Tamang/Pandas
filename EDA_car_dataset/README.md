@@ -32,4 +32,4 @@ MPG-C,
 Price].
 
 ```python
-EDA_car_dataset
+git clone https://github.com/Yubraj-Tamang/Pandas.git
