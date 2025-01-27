@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA)
 
-This project performs an Exploratory Data Analysis (EDA) on a given dataset to uncover patterns, insights, and relationships within the data. EDA is an essential step in the data science process and helps inform decisions for data cleaning, feature engineering, and model development.
+This project performs an Exploratory Data Analysis (EDA) on a given dataset to uncover patterns, insights, and relationships within the data. EDA is an essential step in the data  science process and helps inform decisions for data cleaning, feature engineering, and model development.
 
 ## Table of Contents
 1. Importing the required libraries for EDA
