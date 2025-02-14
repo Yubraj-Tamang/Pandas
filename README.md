@@ -1,2 +1,2 @@
 # Pandas
-Here are the pandas project
+Here are the pandas projects
